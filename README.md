@@ -1,0 +1,2 @@
+This is a poker game developed for my Introduction to Programming in Java
+class. The player places a bet and then the player is a dealt a random hand of cards and is then able to select any number of cards in his hand to be redealt. The hands are then compared to the computer and the winner wins the pot. The game continues until someone runs out of money. 
